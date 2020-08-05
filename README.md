@@ -1,2 +1,2 @@
 # NLW
- Conteúdo da 02 Next Level Week
+ Construção de plataforma de cursos online durante o II Next Level Week - Rocketseat.
